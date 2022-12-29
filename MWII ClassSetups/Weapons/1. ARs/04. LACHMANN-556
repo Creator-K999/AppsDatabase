@@ -1,0 +1,119 @@
+{
+	"Class 1":
+	[
+		{
+			"Rear Grip": "LMK64 GRIP",
+			"Down Tune": "-.33 in (SPRINT TO FIRE SPEED)",
+			"Upper Tune": "-.42 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Barrel": "15.9' LACHMANN RAPP BARREL",
+			"Down Tune": "-.19 in (AIM DOWN SIGHT SPEED)",
+			"Upper Tune": "-.15 lb (AIM WALKING SPEED)"
+		},
+		{
+			"Muzzle": "ECHOLESS-80",
+			"Down Tune": "+.48 in (BULLET VELOCITY)",
+			"Upper Tune": "-1.22 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Underbarrel": "COMMANDO FOREGRIP",
+			"Down Tune": "-.37 in (AIM WALKING SPEED)",
+			"Upper Tune": "-.15 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Magazine": "40 ROUND MAG",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		[
+			"P890",
+			"STUN GRENADE",
+			"PROXIMITY MINE",
+			"DOUBLE TIME",
+			"SCAVENGER",
+			"RESUPPLY",
+			"QUICK FIX",
+			"MUNITIONS BOX",
+			"DEAD SILENCE"
+		]
+	],
+	"Class 2":
+	[
+		{
+			"Stock": "LACHMANN S9 FACTORY",
+			"Down Tune": "-2.01 in (AIM WALKING SPEED)",
+			"Upper Tune": "-2.97 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Optic": "CRONEN MINI PRO",
+			"Down Tune": "-2.03 in (FAR)",
+			"Upper Tune": "-1.65 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Laser": "SZ 1MW PEQ",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		{
+			"Barrel": "15.9' LACHMANN RAPP BARREL",
+			"Down Tune": "+.19 in (DAMAGE RANGE)",
+			"Upper Tune": "+.31 lb (RECOIL STEADINESS)"
+		},
+		{
+			"Magazine": "40 ROUND MAG",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		[
+			"X13 AUTO",
+			"STIM",
+			"SEMTEX",
+			"DOUBLE TIME",
+			"SCAVENGER",
+			"FAST HANDS",
+			"QUICK FIX",
+			"MUNITIONS BOX",
+			"DEAD SILENCE"
+		]
+	],
+	"Class 3":
+	[
+		{
+			"Rear Grip": "LMK64 GRIP",
+			"Down Tune": "-.25 in (SPRINT TO FIRE SPEED)",
+			"Upper Tune": "-.51 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Stock": "LACHMANN S9 FACTORY",
+			"Down Tune": "-.82 in (AIM WALKING SPEED)",
+			"Upper Tune": "-3.07 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Barrel": "15.9' LACHMANN RAPP BARREL",
+			"Down Tune": "+.25 in (DAMAGE RANGE)",
+			"Upper Tune": "+.25 lb (RECOIL STEADINESS)"
+		},
+		{
+			"Underbarrel": "COMMANDO FOREGRIP",
+			"Down Tune": "+.25 in (AIMING IDLE STABILITY)",
+			"Upper Tune": "+.30 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Ammunition": "5.56 HIGH VELOCITY",
+			"Down Tune": "+6.03 gr (BULLET VELOCITY)",
+			"Upper Tune": "+.30 g (DAMAGE RANGE)"
+		},
+		[
+			"P890",
+			"STIM",
+			"SEMTEX",
+			"DOUBLE TIME",
+			"SCAVENGER",
+			"FAST HANDS",
+			"QUICK FIX",
+			"MUNITIONS BOX",
+			"DEAD SILENCE"
+		]
+	]
+}

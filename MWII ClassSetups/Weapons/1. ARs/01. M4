@@ -1,0 +1,119 @@
+{
+	"Class 1":
+	[
+		{
+			"Rear Grip": "PHANTOM GRIP",
+			"Down Tune": "-.35 in (SPRINT TO FIRE SPEED)",
+			"Upper Tune": "-.87 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Stock": "TEMPUS P80 STRIKE STOCK",
+			"Down Tune": "-1.01 in (AIM WALKING SPEED)",
+			"Upper Tune": "-3.87 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Barrel": "419MM EXF BARREL",
+			"Down Tune": "-.26 in (AIM DOWN SIGHT SPEED)",
+			"Upper Tune": "+.13 lb (RECOIL STEADINESS)"
+		},
+		{
+			"Muzzle": "HARBINGER D20",
+			"Down Tune": "+.99 in (BULLET VELOCITY)",
+			"Upper Tune": "-.27 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Underbarrel": "FTAC RIPPER 56",
+			"Down Tune": "+.31 in (AIMING IDLE STABILITY)",
+			"Upper Tune": "+.57 oz (RECOIL STABILIZATION)"
+		},
+		[
+			"COMBAT KNIFE",
+			"STUN GRENADE",
+			"PROXIMITY MINE",
+			"DOUBLE TIME",
+			"SCAVENGER",
+			"RESUPPLY",
+			"QUICK FIX",
+			"MUNITIONS BOX",
+			"DEAD SILENCE"
+		]
+	],
+	"Class 2":
+	[
+		{
+			"Stock": "TEMPUS P80 STRIKE STOCK",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		{
+			"Optic": "SLIMLINE PRO",
+			"Down Tune": "-1.52 in (FAR)",
+			"Upper Tune": "-2.03 oz (AIM DOWN SIGHT SPEED)"
+		},
+		{
+			"Muzzle": "FTAC CASTLE COMP",
+			"Down Tune": "+.30 in (GUN KICK CONTROL)",
+			"Upper Tune": "+.59 oz (RECOIL STABILIZATION)"
+		},
+		{
+			"Underbarrel": "FSS SHARKFIN 90",
+			"Down Tune": "-.30 in (AIM WALKING SPEED)",
+			"Upper Tune": "+.31 oz (RECOIL STABILIZATION)"
+		},
+		{
+			"Magazine": "45 ROUND MAG",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		[
+			"P890",
+			"STIM",
+			"SEMTEX",
+			"DOUBLE TIME",
+			"SCAVENGER",
+			"FAST HANDS",
+			"QUICK FIX",
+			"MUNITIONS BOX",
+			"DEAD SILENCE"
+		]
+	],
+	"Class 3":
+	[
+		{
+			"Rear Grip": "D15 GRIP",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		{
+			"Stock": "RAVAGE-8",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		{
+			"Laser": "1MW LASER BOX",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		{
+			"Barrel": "419MM EXF BARREL",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		{
+			"Underbarrel": "FSS SHARKFIN 90",
+			"Down Tune": "N/A",
+			"Upper Tune": "N/A"
+		},
+		[
+			"P890",
+			"STIM",
+			"SEMTEX",
+			"DOUBLE TIME",
+			"SCAVENGER",
+			"FAST HANDS",
+			"QUICK FIX",
+			"MUNITIONS BOX",
+			"DEAD SILENCE"
+		]
+	]
+}
